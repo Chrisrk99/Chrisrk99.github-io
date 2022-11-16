@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:700');
+
+body{margin: 0;overflow: hidden;  }  
+
+
+.NewsImg {
+  position: absolute;
+  width: 400px;
+  bottom: 20px;
+  left: 16px;
+  display: block;
+  margin: 0 auto;
+  z-index: 100;
+  opacity: 0.5;
+}
+
